@@ -1,0 +1,12 @@
+.idea/*
+.idea/
+Thumbs.db
+desktop.ini
+.classpath
+.project
+.settings
+.metadata
+*.iml
+*.ipr
+logfile
+.pytest_cache
